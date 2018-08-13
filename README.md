@@ -1,4 +1,4 @@
-# Final-Project-Master
+# Fundamentals of Data Science Master's Thesis
 # Predicting Intensive Care Unit Length of Stay via Supervised Learning
     Repository content:
     1. Code in the form of Jupyter Notebooks (DP_# stands for Data Preparation)
