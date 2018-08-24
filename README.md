@@ -4,6 +4,7 @@
     1. Code in the form of Python Jupyter Notebooks 
         (DP_#  stands for Data Preparation)
         (MS_#  stands for Model Selection with main features)
-        (MS_D# stands for Model Selection with both main and derived features)
+        (MS_Rich# stands for Model Selection with both main and derived features)
+        (MS_Rich#_F_extraction stands for Model Selection with both main and derived features with feature reduction)
     2. Output result files
     3. Memory
