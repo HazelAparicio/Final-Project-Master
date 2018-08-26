@@ -6,5 +6,4 @@
         (MS_#  stands for Model Selection with main features)
         (MS_Rich# stands for Model Selection with both main and derived features)
         (MS_Rich#_F_extraction stands for Model Selection with both main and derived features with feature reduction)
-    2. Output result files
-    3. Memory
+    2. Memory Report
