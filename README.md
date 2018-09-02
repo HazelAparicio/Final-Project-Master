@@ -9,3 +9,4 @@ Jordi Albiol Mosegui
         (MS_Rich# stands for Model Selection with both main and derived features)
         (MS_Rich#_F_extraction stands for Model Selection with both main and derived features with feature reduction)
     2. Memory Report
+        (MT.pdf)
