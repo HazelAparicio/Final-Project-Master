@@ -1,5 +1,7 @@
 # Fundamentals of Data Science Master's Thesis
 # Predicting Intensive Care Unit Length of Stay via Supervised Learning
+Jordi Albiol Mosegui
+
     Repository content:
     1. Code in the form of IPython Jupyter Notebooks 
         (DP_#  stands for Data Preparation)
